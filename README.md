@@ -1,2 +1,2 @@
 # spam_detection
-Spam Detection
+Spam Detection by Multinomial Naive Bayes and Multilayer Perceptron
